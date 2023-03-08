@@ -70,7 +70,7 @@ timezone = "UTC"
     time      = "23:00"
   }
   retention_daily {
-    count = 7
+    count = 6
   }
   retention_weekly {
     count = 6
